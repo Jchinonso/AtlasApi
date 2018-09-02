@@ -32,7 +32,7 @@ Technologies Used
 Installation
 ------------
 1.  Ensure you have NodeJs and Redis installed
-2.  Clone the repository `https://github.com/jchinonso/WorkList`
+2.  Clone the repository `https://github.com/jchinonso/AtlasApi`
 3.  Change your directory `cd AtlasApi`
 4.  Install all dependencies `npm install`
 5.  Start the app `npm run start`
